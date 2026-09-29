@@ -1,2 +1,2 @@
-ref_name	species	scientific_name	label	tissue	stage	version	cells	label_col	default_assay	ref_pca	ref_umap	umap_model	release_tag	file	sha256
-rice_seedling_aerial	rice	Oryza_sativa	seedling_aerial	aerial	seedling	v1.0.0	30300	cluster_annotation	SCT	pca	umap	TRUE	rice_seedling_aerial_v1.0.0	rice_seedling_aerial_ref.rds	rice_seedling_aerial_ref.rds.sha256
+hub_id	ref_name	species	scientific_name	label	tissue	stage	version	cells	label_col	default_assay	ref_pca	ref_umap	umap_model	release_tag	file	size_bytes	sha256
+HUB00001	rice_seedling_aerial	rice	Oryza_sativa	seedling_aerial	aerial	seedling	v1.0.0	30300	cluster_annotation	SCT	pca	umap	TRUE	rice_seedling_aerial_v1.0.0	rice_seedling_aerial_v1.0.0.rds	743660470	xxxxxxxx

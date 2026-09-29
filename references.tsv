@@ -1,0 +1,2 @@
+ref_name	species	tissue	stage	version	cells	label_col	default_assay	pca	umap	umap_model	file
+rice_seedling_aerial	Oryza_sativa	aerial	seedling	v1.0.0	30300	cluster_annotation	SCT	pca	umap	TRUE	rice_seedling_aerial_ref.rds

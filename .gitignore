@@ -1,0 +1,28 @@
+# Reference objects are distributed through GitHub Releases
+*.rds
+*.RDS
+
+# Large single-cell data
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.mtx.gz
+
+# Sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Alignment files
+*.bam
+*.bai
+*.sam
+*.cram
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+.DS_Store
